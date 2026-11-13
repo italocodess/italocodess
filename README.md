@@ -23,8 +23,9 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
+[![](https://raw.githubusercontent.com/italocodess/italocodess/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/italocodess/italocodess/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/italocodess/italocodess/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/italocodess/italocodess/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/italocodess/italocodess/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
