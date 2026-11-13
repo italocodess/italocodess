@@ -28,9 +28,3 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-### 📫 Como me encontrar
-
-* 💼 **LinkedIn:** [Seu Link do LinkedIn](https://linkedin.com/in/seu-usuario)
-* ✉️ **E-mail:** seu-email@dominio.com
