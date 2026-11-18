@@ -27,7 +27,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 
 [![Main skills](https://skillicons.dev/icons?i=cpp,c,java,html,css,js,mysql,cs,py,linux&perline=10)](https://skillicons.dev)
 
-**Redes de computadores** 🌐
+**Redes de computadores** 🌐 &nbsp;•&nbsp; **Curso de drone** 🚁
 
 ---
 
