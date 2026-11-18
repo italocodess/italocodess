@@ -11,6 +11,18 @@
 Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas robustos e manutenção de infraestrutura. Sempre explorando novas ferramentas, criando soluções eficientes e construindo projetos práticos para resolver problemas reais.
 
 ---
+
+### 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/italo-alves-478708318/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:italoalvessilva808@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5533999011405"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://instagram.com/_italo033"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
 ### 🚀 Main skills
 
 
