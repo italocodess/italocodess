@@ -20,6 +20,14 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 
 ---
 
+### 💼 Projetos
+
+* **Site para a hamburgueria Império Lanches e Porções** (São João Evangelista - MG): site em **HTML e CSS** com cardápio completo e preços, botão com link para o WhatsApp e identidade visual em preto e dourado, seguindo a logo.
+* **Cadastro de Produtos** (Linguagem de Programação II): aplicação **C# Windows Forms** com classe `Produto`, `DataGridView`, botões Novo/Salvar/Excluir, validação de campos com `MessageBox`, controle de estoque e disponibilidade, e menu com sorteio de destaque.
+* **Seminário sobre sistemas de arquivos** (Sistemas Operacionais, trabalho em grupo): apresentação e relatório sobre FAT32, NTFS, ext4, XFS e journaling, com comandos de disco no **Linux**. Fiquei responsável pelo ext4.
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** C, C++, Python, Java, C#, JavaScript, TypeScript
