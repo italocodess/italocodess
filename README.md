@@ -14,11 +14,9 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 ### 🚀 Main skills
 
 
-[![Main skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion&perline=15)](https://skillicons.dev)
+[![Main skills](https://skillicons.dev/icons?i=cpp,c,java,html,css,js,mysql,cs,py,linux&perline=10)](https://skillicons.dev)
 
-### 📚 Studying
-
-[![Studying](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+**Redes de computadores** 🌐
 
 ---
 
