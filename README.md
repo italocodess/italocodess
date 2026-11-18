@@ -13,6 +13,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 ---
 ### 🚀 Main skills
 
+
 [![Main skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion&perline=15)](https://skillicons.dev)
 
 ### 📚 Studying
@@ -20,6 +21,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 [![Studying](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
 ---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** C, C++, Python, Java, C#, JavaScript, TypeScript
