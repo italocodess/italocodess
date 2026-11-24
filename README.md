@@ -25,7 +25,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 ### 🚀 Main skills
 
 
-[![Main skills](https://skillicons.dev/icons?i=cpp,c,java,html,css,js,mysql,cs,py,linux&perline=10)](https://skillicons.dev)
+[![Main skills](https://skillicons.dev/icons?i=cpp,c,java,html,css,js,mysql,cs,py,ruby,linux&perline=11)](https://skillicons.dev)
 
 **Redes de computadores** 🌐 &nbsp;•&nbsp; **Curso de drone** 🚁
 
@@ -41,7 +41,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** C, C++, Python, Java, C#, JavaScript
+* **Linguagens:** C, C++, Python, Java, C#, JavaScript, Ruby
 * **Web & Banco de Dados:** HTML5, CSS3, SQL (MySQL, PostgreSQL), Node.js
 * **Sistemas & Redes:** Linux (Ubuntu Server, Linux Mint), TCP/IP, Docker, Git & GitHub
 * **Ambiente de Trabalho:** Visual Studio Code, NetBeans, VirtualBox, Windows
