@@ -41,7 +41,7 @@ Estudante universitário apaixonado por tecnologia, desenvolvimento de sistemas 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** C, C++, Python, Java, C#, JavaScript, TypeScript
+* **Linguagens:** C, C++, Python, Java, C#, JavaScript
 * **Web & Banco de Dados:** HTML5, CSS3, SQL (MySQL, PostgreSQL), Node.js
 * **Sistemas & Redes:** Linux (Ubuntu Server, Linux Mint), TCP/IP, Docker, Git & GitHub
 * **Ambiente de Trabalho:** Visual Studio Code, NetBeans, VirtualBox, Windows
